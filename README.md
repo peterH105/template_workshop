@@ -1,6 +1,4 @@
-<table><tr><td><img src='./raytay_init.png'></td><td><img src='./raytay.png'></td></tr></table>
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/underworld-community/template-project/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/peterH105/template_workshop/master)
 
 About
 -----
